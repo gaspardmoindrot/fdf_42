@@ -1,5 +1,3 @@
-# fdf_fini
-=======
 # fdf
 
 ### Modélisation 3D
